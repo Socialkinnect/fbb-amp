@@ -1,0 +1,62 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    {"provider": "facebook", "app_id": "1603882529825579"},
+    {"provider": "twitter", "text": "This is custom share text that I would like for the Twitter platform"},
+    "email",
+	"whatsapp"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More from socialkinnect"
+    },
+    {
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+	{
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+	{
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+	{
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+	{
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+	{
+      "type": "small",
+      "title": "Learn more about us",
+      "url": "http://www.socialkinnect.com/",
+      "image": "assets/2.png"
+    },
+  
+
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "http://www.socialkinnect.com/"
+        }
+      ]
+    }
+  ]
+}
